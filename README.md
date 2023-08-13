@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="img/img_1.jpeg" alt="Data Ranger Logo" width="200px" height="200px">
+  <img src="img/img_1.jpeg" alt="Data Ranger Logo" width="250px" height="200px">
 </p>
 <h1 align="center"> Data Ranger </h1>
 
@@ -18,7 +18,7 @@
 ## 💡 Insights and Business Recommendations
 
 <p align="center"> 
-  <img src="img/img_3.png" alt="Age Feature Insight" width="500px" height="200px">
+  <img src="img/img_3.png" alt="Age Feature Insight" width="600px" height="300px">
 </p>
 
 <h3>⭐️ Insight</h3>
@@ -36,7 +36,7 @@
 ![-----------------------------------------------------](img/img_2.png)
 
 <p align="center"> 
-  <img src="img/img_4.png" alt="Job Feature Insight" width="500px" height="200px">
+  <img src="img/img_4.png" alt="Job Feature Insight" width="600px" height="300px">
 </p>
 
 <h3>⭐️ Insight</h3>
@@ -54,7 +54,7 @@
 ![-----------------------------------------------------](img/img_2.png)
 
 <p align="center"> 
-  <img src="img/img_5.png" alt="Duration Feature Insight" width="500px" height="200px">
+  <img src="img/img_5.png" alt="Duration Feature Insight" width="600px" height="300px">
 </p>
 
 <h3>⭐️ Insight</h3>
@@ -72,7 +72,7 @@
 ![-----------------------------------------------------](img/img_2.png)
 
 <p align="center"> 
-  <img src="img/img_6.png" alt="Education Feature Insight" width="250px" height="200px">
+  <img src="img/img_6.png" alt="Education Feature Insight" width="350px" height="300px">
 </p>
 
 <h3>⭐️ Insight</h3>
@@ -90,7 +90,7 @@
 ![-----------------------------------------------------](img/img_2.png)
 
 <p align="center"> 
-  <img src="img/img_7.png" alt="Campaign Feature Insight" width="500px" height="200px">
+  <img src="img/img_7.png" alt="Campaign Feature Insight" width="600px" height="300px">
 </p>
 
 <h3>⭐️ Insight</h3>
@@ -110,12 +110,26 @@
 ### 💙 Our Contributor
 
 <h4 align="left"> 
-  🐼 Hunayn Risatayn<br>
-  🐼 Indah Kusuma Wardani<br>
-  🐼 Nindy Salsabila Hanin Zahra<br>
-  🐼 Athira Syifa Puti Salim<br>
-  🐼 Zery Triputra<br>
-  🐼 M. Khairul Ardi<br>
-  🐼 Muhamad Amar Nadhif<br>
-  🐼 Andriansyah Firdimas<br>
+  🐼 Hunayn Risatayn
+</h4>
+<h4 align="left">
+  🐼 Indah Kusuma Wardani
+</h4>
+<h4 align="left">
+  🐼 Nindy Salsabila Hanin Zahra
+</h4>
+<h4 align="left">
+  🐼 Athira Syifa Puti Salim
+</h4>
+<h4 align="left">
+  🐼 Zery Triputra
+</h4>
+<h4 align="left">
+  🐼 M. Khairul Ardi
+</h4>
+<h4 align="left">
+  🐼 Muhamad Amar Nadhif
+</h4>
+<h4 align="left">
+  🐼 Andriansyah Firdimas
 </h4>
