@@ -18,7 +18,7 @@
 ## 💡 Insights and Business Recommendations
 
 <p align="center"> 
-  <img src="img/img_3.png" alt="Age Feature Insight" width="600px" height="300px">
+  <img src="img/img_3.png" alt="Age Feature Insight" width="700px" height="200px">
 </p>
 
 <h3>⭐️ Insight</h3>
@@ -54,7 +54,7 @@
 ![-----------------------------------------------------](img/img_2.png)
 
 <p align="center"> 
-  <img src="img/img_5.png" alt="Duration Feature Insight" width="600px" height="300px">
+  <img src="img/img_5.png" alt="Duration Feature Insight" width="700px" height="200px">
 </p>
 
 <h3>⭐️ Insight</h3>
@@ -90,7 +90,7 @@
 ![-----------------------------------------------------](img/img_2.png)
 
 <p align="center"> 
-  <img src="img/img_7.png" alt="Campaign Feature Insight" width="600px" height="300px">
+  <img src="img/img_7.png" alt="Campaign Feature Insight" width="700px" height="200px">
 </p>
 
 <h3>⭐️ Insight</h3>
@@ -109,27 +109,13 @@
 
 ### 💙 Our Contributor
 
-<h4 align="left"> 
-  🐼 Hunayn Risatayn
-</h4>
-<h4 align="left">
-  🐼 Indah Kusuma Wardani
-</h4>
-<h4 align="left">
-  🐼 Nindy Salsabila Hanin Zahra
-</h4>
-<h4 align="left">
-  🐼 Athira Syifa Puti Salim
-</h4>
-<h4 align="left">
-  🐼 Zery Triputra
-</h4>
-<h4 align="left">
-  🐼 M. Khairul Ardi
-</h4>
-<h4 align="left">
-  🐼 Muhamad Amar Nadhif
-</h4>
-<h4 align="left">
-  🐼 Andriansyah Firdimas
-</h4>
+<p align="left"> 
+  🐼 <b>Hunayn Risatayn<b><br>
+  🐼 <b>Indah Kusuma Wardani<b><br>
+  🐼 <b>Nindy Salsabila Hanin Zahra<b><br>
+  🐼 <b>Athira Syifa Puti Salim<b><br>
+  🐼 <b>Zery Triputra<b><br>
+  🐼 <b>M. Khairul Ardi<b><br>
+  🐼 <b>Muhamad Amar Nadhif<b><br>
+  🐼 <b>Andriansyah Firdimas<b>
+</p>
