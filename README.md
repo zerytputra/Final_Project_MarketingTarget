@@ -18,7 +18,7 @@
 ## 💡 Insights and Business Recommendations
 
 <p align="center"> 
-  <img src="img/img_3.png" alt="Age Feature Insight" width="700px" height="200px">
+  <img src="img/img_3.png" alt="Age Feature Insight" width="600px" height="200px">
 </p>
 
 <h3>⭐️ Insight</h3>
@@ -54,7 +54,7 @@
 ![-----------------------------------------------------](img/img_2.png)
 
 <p align="center"> 
-  <img src="img/img_5.png" alt="Duration Feature Insight" width="700px" height="200px">
+  <img src="img/img_5.png" alt="Duration Feature Insight" width="600px" height="200px">
 </p>
 
 <h3>⭐️ Insight</h3>
@@ -90,7 +90,7 @@
 ![-----------------------------------------------------](img/img_2.png)
 
 <p align="center"> 
-  <img src="img/img_7.png" alt="Campaign Feature Insight" width="700px" height="200px">
+  <img src="img/img_7.png" alt="Campaign Feature Insight" width="600px" height="200px">
 </p>
 
 <h3>⭐️ Insight</h3>
