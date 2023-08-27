@@ -139,14 +139,14 @@ Dikarenakan fitur target 'y' itu memiliki data imbalance maka kami mempertimbang
 
 <h3>⭐️ Feature Selection and Engineering</h3>
 <p align="center"> 
-  <img src="img/img_8.jpeg" alt="Data Ranger Logo" width="250px" height="200px">
+  <img src="img/img_8.png" alt="Data Ranger Logo" width="250px" height="200px">
 </p>
 <p align="justify"> 
 Berdasarkan hasil validasi model menggunakan filter method yang mengukur mean recall scoring parameter pada beberapa persentase fitur yang terlibat dalam proses pembentukan model diperoleh kondisi optimal dengan memanfaatkan percentile 60 dari fitur atau sekitar 11 fitur dari eksperimen yang berjumlah 19 fitur. Daftar fitur yang menjadi bahan pertimbangan adalah age, balance, is_married, education_mapped, is_default, is_housing, job, is_poutcome_success, duration, campaign, pdays.
 </p>
 
 <p align="center"> 
-  <img src="img/img_9.jpeg" alt="Data Ranger Logo" width="250px" height="200px">
+  <img src="img/img_9.png" alt="Data Ranger Logo" width="250px" height="200px">
 </p>
 <p align="justify"> 
 Metode Recursive Feature Elimination berperan dalam menentukan jumlah fitur penyusun model melalui penghapusan/eliminasi fitur yang memiliki nilai koefisien terendah secara iteratif untuk seluruh kombinasi fitur yang tersedia guna memperoleh nilai mean test recall yang paling optimal. Mengacu pada grafik, kondisi ideal mampu mengakomodasi sekitar 8 fitur yaitu age, balance, is_married, education_mapped, is_default, is_housing, is_loan dan job.
