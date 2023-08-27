@@ -107,6 +107,58 @@
 
 ![-----------------------------------------------------](img/img_2.png)
 
+<h3>📝 Data Preparation</h3>
+
+<h3>⭐️ Handling Null Values dan Data Duplikat</h3>
+<p align="justify"> 
+  Dari data yang diperoleh, tidak terdapat data null dan data duplikat.
+</p>
+
+<h3>⭐️ Handling Outliers</h3>
+<p align="justify"> 
+  Untuk pengolahan Outlier dilakukan dengan zscore. Terdapat 2.038 data outlier yang di remove. Kami mempertimbangkan untuk penanganan outliers menggunakan Z-score untuk menentukan seberapa jauh suatu data berada dari rata-rata, dengan Z-score tinggi dianggap sebagai outlier atau nilai ekstrem , kami mempertimbangkan dengan memilih z-score dikarenakan kami tidak ingin kehilangan banyak data. Dikarenakan data nya tidak berdistribusi normal maka kami melakukan log transformasi terlebih dahulu.
+</p>
+
+<h3>⭐️ Normalisasi</h3>
+<p align="justify"> 
+Sebelum dilakukan scalling dengan normalization, data perlu di split terlebih dahulu, menjadi train dan test. Normalization dipilih menjadi metode transformation karena merupakan metode yang paling umum digunakan.
+</p>
+
+<h3>⭐️ Feature Encoding</h3>
+<p align="justify"> 
+Fitur-fitur kategorikal perlu di-encode menjadi representasi numerik agar dapat digunakan dalam model. dengan label encoding pada kolom married,education, default, housing, loan dan month.
+</p>
+<p align="justify"> 
+untuk kolom month di jadikan 4 kuartal menjadi 'month quarter' dan one hot encoding untuk kolom job, contact dan month quarter
+</p>
+
+<h3>⭐️ Class Imbalance</h3>
+<p align="justify"> 
+Dikarenakan fitur target 'y' itu memiliki data imbalance maka kami mempertimbangkan untuk handling class imbalance dengan SMOTE
+</p>
+
+<h3>⭐️ Feature Selection and Engineering</h3>
+<p align="center"> 
+  <img src="img/img_8.jpeg" alt="Data Ranger Logo" width="250px" height="200px">
+</p>
+<p align="justify"> 
+Berdasarkan hasil validasi model menggunakan filter method yang mengukur mean recall scoring parameter pada beberapa persentase fitur yang terlibat dalam proses pembentukan model diperoleh kondisi optimal dengan memanfaatkan percentile 60 dari fitur atau sekitar 11 fitur dari eksperimen yang berjumlah 19 fitur. Daftar fitur yang menjadi bahan pertimbangan adalah age, balance, is_married, education_mapped, is_default, is_housing, job, is_poutcome_success, duration, campaign, pdays.
+</p>
+
+<p align="center"> 
+  <img src="img/img_9.jpeg" alt="Data Ranger Logo" width="250px" height="200px">
+</p>
+<p align="justify"> 
+Metode Recursive Feature Elimination berperan dalam menentukan jumlah fitur penyusun model melalui penghapusan/eliminasi fitur yang memiliki nilai koefisien terendah secara iteratif untuk seluruh kombinasi fitur yang tersedia guna memperoleh nilai mean test recall yang paling optimal. Mengacu pada grafik, kondisi ideal mampu mengakomodasi sekitar 8 fitur yaitu age, balance, is_married, education_mapped, is_default, is_housing, is_loan dan job.
+</p>
+
+<p align="justify"> 
+Merujuk pada kedua metode yang mampu merekomendasikan fitur pembentuk model, maka ditentukan fitur yang berkontribusi terhadap predictor yaitu age, balance, is_married, education_mapped, is_default, is_housing, is_loan dan job.
+</p>
+
+
+![-----------------------------------------------------](img/img_2.png)
+
 ### 💙 Our Contributors
 
 <p align="left"> 
